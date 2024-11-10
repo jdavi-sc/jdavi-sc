@@ -2,7 +2,7 @@
 >"O aprendizado é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende." - Leonardo da Vinci
 
 ## 📲 Entre em contato comigo 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-davi)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-davi/)
 
 [![E mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josedscosta2005@gmail.com)
 
