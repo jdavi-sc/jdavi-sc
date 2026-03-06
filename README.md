@@ -39,15 +39,6 @@ Busco sempre escrever código limpo, aprender boas práticas e explorar novas fe
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
----
-
-### 🚀 O que estou aprendendo atualmente  
-- Lógica de programação e algoritmos  
-- Práticas modernas de **JavaScript**  
-- Integração de **APIs REST**  
-- Versionamento de código com **Git e GitHub**  
-
----
 
 ### 🌟 Projetos em destaque  
 - **[Weather API](https://github.com/jdavi-sc/Weather-api)** → Aplicação que exibe a temperatura atual em Celsius ou Fahrenheit usando uma API externa.  
