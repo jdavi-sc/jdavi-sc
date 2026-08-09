@@ -14,7 +14,7 @@ Busco sempre escrever código limpo, aprender boas práticas e explorar novas fe
 
 ### 📫 Entre em contato comigo  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-davi/](https://www.linkedin.com/in/jose-davi-sousa/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/jose-davi-sousa/)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josedscosta2005@gmail.com)
 
 ---
